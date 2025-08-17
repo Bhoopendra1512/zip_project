@@ -4,18 +4,10 @@ fir terminal open karo type karo
 
 cd client
 cd my-app
-npm install
+npm run dev
 
-after few minute or download you can type 
-
- npm run dev
-
- open other terminal type 
+open other terminal type 
  
- cd server
- npm install 
-
- after few minute or download you can type 
-
- npm run dev
+cd server
+npm run dev
  
